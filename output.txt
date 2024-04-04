@@ -1,1 +1,4 @@
-Sum of the series up to 10 terms: 2.93
+100
+1234567891234567
+23.57
+A
